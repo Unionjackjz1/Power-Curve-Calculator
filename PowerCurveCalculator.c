@@ -17,7 +17,7 @@
 * iMaxHeight equal to the max height your arm can mechanically go.
 *
 * Open:
-* Root > Debugger Windows > LCD
+* Robot > Debugger Windows > LCD
 * Robot > Debugger Windows > Debugger Stream
 *
 * Select the speed you'd like to run the motors, and click 
